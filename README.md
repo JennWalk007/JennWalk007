@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JennWalk007
-- 👀 I’m interested in Cloud Architect and Security
-- 🌱 I’m currently learning Cloud and Coding
+- 👀 I’m interested in DevSecOps
+- 🌱 I’m currently becoming an expert in Python.
 - 💞️ I’m looking to collaborate on building and stregthening my projects
 - 📫 How to reach me LinkedIn Jennie Walker
 
